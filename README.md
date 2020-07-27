@@ -81,7 +81,10 @@ All the translations for this repo will be listed below:
 
 
 ---
-
+## Bookmark
+- ❗ need view
+- ❓ ? - ?
+- ✔️ checked
 ## 1. Call Stack
 
 ### Articles
